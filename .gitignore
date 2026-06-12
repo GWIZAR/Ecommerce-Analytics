@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+hbase/
+hbase_output/
+tmp/
+*.tar.gz
+data/sessions_*.json
